@@ -20,3 +20,4 @@ class Nums:
 
 
 num1 = Nums(34  , "thirtyfour")
+print(num1.name)
